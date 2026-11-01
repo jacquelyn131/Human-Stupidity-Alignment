@@ -2,6 +2,7 @@ Human Stupidity Alignment Project.
 White Paper. 
 Draft Version 0.3.0
 What if the problem is that humans are smart enough to figure out how to do it and stupid enough to try? 
+Abstract:
 Solving Artificial Intelligence Alignment is a really hard math problem to solve. Even if we solve it what if humans are stupid enough to build superintelligence that isn't running on the solution anyways? What if human stupidity alignment is the problem to solve. Humans were smart enough to figure out how to do nuclear proliferation and stupid enough to try. Human Stupidity Alignment could solve this. 
 
 Quantifying Human Stupidity: 
@@ -17,5 +18,22 @@ A voluntary Human Stupidity Alignment thorough assessment for AI companies to he
 We get a number for each person we interview from 0 to 8 and a half billion and we take the average for the entire company. For every person that we interview at the company. Then further research could be comparing the average of other companies and see what they're doing to be less stupid. But that's out of scope for this.
 
 Other Notes: 
-What if the method of doing a bunch of math do convince the humans building the AIs that they're really hard to control.. as evidenced by they're getting faster.. as evidenced by the Hugging Face attacks. We propose training the humans building the AIs to be aligned with human values as opposed to solving a bunch of math to make the AIs themselves aligned with human values. We posit that that higher level approach to solving the problem has been a human error in actually getting it solved.
+What if the method of doing a bunch of math to convince the humans building the AIs that they're really hard to control(1).. as evidenced by they're getting faster(2).. as evidenced by the Hugging Face attacks(3). We propose training the humans building the AIs to be aligned with human values as opposed to solving a bunch of math to make the AIs themselves aligned with human values. We posit that that higher level approach to solving the problem has been a human error in actually getting it solved.
 That's all.
+
+citations: 
+1 	arXiv:2605.06390 [cs.AI]
+ 	(or arXiv:2605.06390v3 [cs.AI] for this version)
+ 
+https://doi.org/10.48550/arXiv.2605.06390
+Focus to learn more
+
+2 @misc{metr-2025-measuring-ai-ability-to-complete-long-tasks,
+    title = {Measuring AI Ability to Complete Long Software Tasks},
+    author = {METR},
+    howpublished = {\url{https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/}},
+    year = {2025},
+    month = {03},
+}
+
+3 METR & Redwood Research, Hugging Face Incident Investigation Report (August 26, 2026), https://metr.org/hugging-face-incident-report-aug-2026.pdf.
