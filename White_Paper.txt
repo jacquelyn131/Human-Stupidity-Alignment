@@ -7,6 +7,8 @@ Solving Artificial Intelligence Alignment is a really hard math problem to solve
 Quantifying Human Stupidity: 
 This is how we quantify human stupidity. It's in billions of lives that could be lost... That's it. We keep it simple. Superintelligence has harms it can do. The potential harms it can do are for having superhuman ability at every task. If we break that set of all tasks into the harms of each individual task, then we can see the potential harm of each individual task and teaching an AI to have superhuman ability at each individual task. 
 
+For an individual task or capability, how many humans will die if the AI breaks out and does it? And if you cure cancer now, how many lives will be saved? So is that a good idea or a stupid idea? And that's it. We keep it simple. 
+
 What we propose: 
 A voluntary Human Stupidity Alignment thorough assessment for AI companies to help solve this problem. Conducting thorough Human Stupidity Alignment assessment to identify the current level of Human Stupidity Misalignment and how much of a big factor it is to the problem of preventing the harms of AI systems while we can avoid them is what we propose. 
 
