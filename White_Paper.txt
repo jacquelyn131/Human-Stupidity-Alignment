@@ -1,6 +1,6 @@
 Human Stupidity Alignment Project. 
 White Paper. 
-Draft Version 0.3.0
+Draft Version 0.8.0
 What if the problem is that humans are smart enough to figure out how to do it and stupid enough to try? 
 Abstract:
 Solving Artificial Intelligence Alignment is a really hard math problem to solve. Even if we solve it what if humans are stupid enough to build superintelligence that isn't running on the solution anyways? What if human stupidity alignment is the problem to solve. Humans were smart enough to figure out how to do nuclear proliferation and stupid enough to try. Human Stupidity Alignment could solve this. 
@@ -21,19 +21,15 @@ Other Notes:
 What if the method of doing a bunch of math to convince the humans building the AIs that they're really hard to control(1) from a high level isn't a good approach for solving this problem. As evidenced by they're getting faster(2) in terms of AI capabilities as evidenced by the Hugging Face attacks(3). We propose training the humans building the AIs to be aligned with human values as opposed to solving a bunch of math to make the AIs themselves aligned with human values. We posit that that higher level approach to solving the problem has been a human error in actually getting it solved.
 That's all.
 
-citations: 
-1 	arXiv:2605.06390 [cs.AI]
- 	(or arXiv:2605.06390v3 [cs.AI] for this version)
- 
-https://doi.org/10.48550/arXiv.2605.06390
-Focus to learn more
+footnotes
 
-2 @misc{metr-2025-measuring-ai-ability-to-complete-long-tasks,
-    title = {Measuring AI Ability to Complete Long Software Tasks},
-    author = {METR},
-    howpublished = {\url{https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/}},
-    year = {2025},
-    month = {03},
-}
+¹ Aleksandr Bowkis et al., Automated Alignment Is Harder Than You Think, arXiv:2605.06390 (May 14, 2026), https://doi.org/10.48550/arXiv.2605.06390.
+
+2  METR, Measuring AI Ability to Complete Long Software Tasks (March 19, 2025), https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/.
 
 3 METR & Redwood Research, Hugging Face Incident Investigation Report (August 26, 2026), https://metr.org/hugging-face-incident-report-aug-2026.pdf.
+
+References:
+Bowkis, A., Buhl, M. D., Pfau, J., & Irving, G. (2026). Automated alignment is harder than you think (arXiv Preprint No. arXiv:2605.06390v3). arXiv. https://doi.org/10.48550/arXiv.2605.06390
+METR, & Redwood Research. (2026). Hugging Face incident investigation report. https://metr.org/hugging-face-incident-report-aug-2026.pdf
+METR. (2025, March 19). Measuring AI ability to complete long software tasks. https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/
