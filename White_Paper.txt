@@ -1,6 +1,6 @@
 Human Stupidity Alignment Project. 
 White Paper. 
-Draft Version 0.2.0
+Draft Version 0.3.0
 What if the problem is that humans are smart enough to figure out how to do it and stupid enough to try? 
 Solving Artificial Intelligence Alignment is a really hard math problem to solve. Even if we solve it what if humans are stupid enough to build superintelligence that isn't running on the solution anyways? What if human stupidity alignment is the problem to solve. Humans were smart enough to figure out how to do nuclear proliferation and stupid enough to try. Human Stupidity Alignment could solve this. 
 
