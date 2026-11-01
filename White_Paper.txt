@@ -14,6 +14,8 @@ So then we get a number. A number in billions of how many lives will be lost min
 What we propose: 
 A voluntary Human Stupidity Alignment thorough assessment for AI companies to help solve this problem. Conducting thorough Human Stupidity Alignment assessment to identify the current level of Human Stupidity Misalignment and how much of a big factor it is to the problem of preventing the harms of AI systems while we can avoid them is what we propose. 
 
+We get a number for each person we interview from 0 to 8 and a half billion and we take the average for the entire company. For every person that we interview at the company. Then further research could be comparing the average of other companies and see what they're doing to be less stupid. But that's out of scope for this.
+
 Other Notes: 
 What if the method of doing a bunch of math do convince the humans building the AIs that they're really hard to control.. as evidenced by they're getting faster.. as evidenced by the Hugging Face attacks. We propose training the humans building the AIs to be aligned with human values as opposed to solving a bunch of math to make the AIs themselves aligned with human values. We posit that that higher level approach to solving the problem has been a human error in actually getting it solved.
 That's all.
