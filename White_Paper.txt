@@ -1,6 +1,6 @@
 Human Stupidity Alignment Project. 
 White Paper. 
-Draft Version 0.8.2
+Draft Version 0.8.4
 Jacquelyn Shelby
 
 What if the problem is that humans are smart enough to figure out how to do it and stupid enough to try? 
@@ -21,8 +21,9 @@ A voluntary Human Stupidity Alignment thorough assessment for AI companies to he
 We get a number for each person we interview from 0 to 8 and a half billion and we take the average for the entire company. For every person that we interview at the company. Then further research could be comparing the average of other companies and see what they're doing to be less stupid. But that's out of scope for this.
 
 Other Notes: 
-What if the method of doing a bunch of math to convince the humans building the AIs that they're really hard to control from a high level isn't a good approach for solving this problem. As evidenced by they're getting faster in terms of AI capabilities as evidenced by the Hugging Face attacks(3). We propose training the humans building the AIs to be aligned with human values as opposed to solving a bunch of math to make the AIs themselves be aligned with human values. We posit that that higher level approach to solving the problem has been a human error in actually getting it solved.
+What if the method of doing a bunch of math to convince the humans building the AIs that they're really hard to control from a high level isn't a good approach for solving this problem. As evidenced by they're getting faster in terms of AI capabilities as evidenced by the Hugging Face attacks. We propose training the humans building the AIs to be aligned with human values as opposed to solving a bunch of math to make the AIs themselves be aligned with human values. We posit that that higher level approach to solving the problem has been a human error in actually getting it solved.
 That's all.
+
 
 
 
