@@ -1,6 +1,6 @@
 Human Stupidity Alignment Project. 
 White Paper. 
-Draft Version 0.9.7
+Draft Version 0.9.9
 Jacquelyn Shelby
 
 What if the problem is that humans are smart enough to figure out how to do it and stupid enough to try? 
@@ -34,17 +34,19 @@ Person A Human Stupidity: 7 billion people minus 10 million people equals: 6,990
 
 Then we'll get a number. Maybe it will be zero for everyone, and we can rule out Human Stupidity as a factor, or maybe it will be 8.5 billion, or maybe it will be something else above zero. And then we can go from there to solve this problem.
 
-Footnote: one on one interviews, not a survey, we allow them the opportunity to say how stupid they are to a human being. And one on one interviews with a human.
 
 Results: Results will be published publicly on the Human Stupidity Alignment Project website along with average Human Stupidity for each company.
 
 And Repeat: 
-Repeat for multiple capabilities that have been built, will be built, and are being built. Repeat for Researchers, Developers, and Engineers who contribute to building a certain capability.
+Repeat for multiple capabilities that have been built, will be built, and are being built. Repeat for Researchers, Developers, and Engineers who contribute to building a certain capability. Not just people who are heading or leading or in charge or deciding a capability. People at every level of the Human Stupidity lifecycle.
 
 Other Notes: 
 What if the method of doing a bunch of math to convince the humans building the AIs that they're really hard to control from a high level isn't a good approach for solving this problem. As evidenced by they're getting faster in terms of AI capabilities as evidenced by the Hugging Face attacks. We propose training the humans building the AIs to be aligned with human values as opposed to solving a bunch of math to make the AIs themselves be aligned with human values. We posit that that higher level approach to solving the problem has been a human error in actually getting it solved.
 That's all.
 
+Diagrams
+
+Figure A: Human Stupidity*
 
 
 
