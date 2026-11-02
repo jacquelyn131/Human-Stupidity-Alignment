@@ -1,9 +1,12 @@
 Human Stupidity Alignment Project. 
 White Paper. 
-Draft Version 0.8.1
+Draft Version 0.8.2
+Jacquelyn Shelby
+
 What if the problem is that humans are smart enough to figure out how to do it and stupid enough to try? 
+
 Abstract:
-Solving Artificial Intelligence Alignment is a really hard math problem to solve. Even if we solve it what if humans are stupid enough to build superintelligence that isn't running on the solution anyways? What if human stupidity alignment is the problem to solve. Humans were smart enough to figure out how to do nuclear proliferation and stupid enough to try. Human Stupidity Alignment could solve this. 
+Solving Artificial Intelligence Alignment is a really hard math problem to solve. Even if we solve it, what if humans are stupid enough to build superintelligence that isn't running on the solution anyways? What if human stupidity alignment is the problem to solve. Humans were smart enough to figure out how to do nuclear proliferation and stupid enough to try. Human Stupidity Alignment could solve this. 
 
 Quantifying Human Stupidity: 
 This is how we quantify human stupidity. It's in billions of lives that could be lost. That's it. We keep it simple. Superintelligence has harms it can do. The potential harms it can do are for having superhuman ability at every task. If we break that set of all tasks into the harms of each individual task, then we can see the potential harm of each individual task and teaching an AI to have superhuman ability at each individual task. 
@@ -12,24 +15,29 @@ For an individual task or capability, how many humans will die if the AI breaks 
 
 So then we get a number. A number in billions of how many lives will be lost minus how many lives will be saved from curing cancer. That's the number. We quantify human stupidity. And then is that a good idea or is that a stupid idea? And the human says it's stupid, or the human says it's a good idea or however they respond. And we get their response. We have a number and we have that the human says it's stupid or says it's not stupid, or however they respond. That's it. We keep it simple. One on one interviews. And get their response. Yeah. That's all.
 
-What we propose: 
+What We Propose: 
 A voluntary Human Stupidity Alignment thorough assessment for AI companies to help solve this problem. What we propose is conducting thorough Human Stupidity Alignment assessment to identify the current level of Human Stupidity Misalignment and how much of a big factor it is to the problem of preventing the harms of AI systems while we can avoid them. 
 
 We get a number for each person we interview from 0 to 8 and a half billion and we take the average for the entire company. For every person that we interview at the company. Then further research could be comparing the average of other companies and see what they're doing to be less stupid. But that's out of scope for this.
 
 Other Notes: 
-What if the method of doing a bunch of math to convince the humans building the AIs that they're really hard to control(1) from a high level isn't a good approach for solving this problem. As evidenced by they're getting faster(2) in terms of AI capabilities as evidenced by the Hugging Face attacks(3). We propose training the humans building the AIs to be aligned with human values as opposed to solving a bunch of math to make the AIs themselves be aligned with human values. We posit that that higher level approach to solving the problem has been a human error in actually getting it solved.
+What if the method of doing a bunch of math to convince the humans building the AIs that they're really hard to control from a high level isn't a good approach for solving this problem. As evidenced by they're getting faster in terms of AI capabilities as evidenced by the Hugging Face attacks(3). We propose training the humans building the AIs to be aligned with human values as opposed to solving a bunch of math to make the AIs themselves be aligned with human values. We posit that that higher level approach to solving the problem has been a human error in actually getting it solved.
 That's all.
 
-footnotes
 
-¹ Aleksandr Bowkis et al., Automated Alignment Is Harder Than You Think, arXiv:2605.06390 (May 14, 2026), https://doi.org/10.48550/arXiv.2605.06390.
 
-2  METR, Measuring AI Ability to Complete Long Software Tasks (March 19, 2025), https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/.
 
-3 METR & Redwood Research, Hugging Face Incident Investigation Report (August 26, 2026), https://metr.org/hugging-face-incident-report-aug-2026.pdf.
+
+
+
+
+
+
+
 
 References:
 Bowkis, A., Buhl, M. D., Pfau, J., & Irving, G. (2026). Automated alignment is harder than you think (arXiv Preprint No. arXiv:2605.06390v3). arXiv. https://doi.org/10.48550/arXiv.2605.06390
 METR, & Redwood Research. (2026). Hugging Face incident investigation report. https://metr.org/hugging-face-incident-report-aug-2026.pdf
 METR. (2025, March 19). Measuring AI ability to complete long software tasks. https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/
+
+
