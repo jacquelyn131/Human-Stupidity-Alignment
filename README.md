@@ -1,3 +1,3 @@
 # Human Stupidity Alignment Project
 
-A short white paper exploring human responsibility and alignment in AI development.
+What if humans are smart enough to know how to do it and stupid enough to try?
