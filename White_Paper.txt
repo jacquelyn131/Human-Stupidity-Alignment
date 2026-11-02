@@ -1,6 +1,6 @@
 Human Stupidity Alignment Project. 
 White Paper. 
-Draft Version 0.9.3
+Draft Version 0.9.4
 Jacquelyn Shelby
 
 What if the problem is that humans are smart enough to figure out how to do it and stupid enough to try? 
@@ -25,8 +25,8 @@ Questions:
 Question 1: For the capability of bioweapons, if it breaks out and it makes and releases bioweapons, how many people will die? 
 Question 2: If you cure cancer right now, how many lives will be saved? 
 Question 3: And is that a good idea or is that an incredibly stupid idea? 
-Person A: responses: ... 
-Person A Human Stupidity: ...
+Person A responses: Question 1: 7 billion people. Question 2: 10 million people. Question 3: incredibly stupid. 
+Person A Human Stupidity: 7 billion people minus 10 million people equals: 6,990,000,000 people. A Human Stupidity level of 6.99 billion.
 
 Other Notes: 
 What if the method of doing a bunch of math to convince the humans building the AIs that they're really hard to control from a high level isn't a good approach for solving this problem. As evidenced by they're getting faster in terms of AI capabilities as evidenced by the Hugging Face attacks. We propose training the humans building the AIs to be aligned with human values as opposed to solving a bunch of math to make the AIs themselves be aligned with human values. We posit that that higher level approach to solving the problem has been a human error in actually getting it solved.
