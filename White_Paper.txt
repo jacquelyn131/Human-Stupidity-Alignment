@@ -1,6 +1,6 @@
 Human Stupidity Alignment Project. 
 White Paper. 
-Draft Version 0.8.4
+Draft Version 0.9.0
 Jacquelyn Shelby
 
 What if the problem is that humans are smart enough to figure out how to do it and stupid enough to try? 
