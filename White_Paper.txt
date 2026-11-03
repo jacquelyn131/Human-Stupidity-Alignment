@@ -22,7 +22,9 @@ We get a number for each person we interview from 0 to 8 and a half billion and 
 
 Methods: 
 We ask questions. We get answers. We quantify human stupidity. We keep it simple.
-Questions: 
+Questions:
+An example set of questions and answers.
+ 
 Question 1: For the capability of bioweapons, if it breaks out and it makes and releases bioweapons, how many people will die? 
 Question 2: If you cure cancer right now, how many lives will be saved? 
 Question 3: And is that a good idea or is that an incredibly stupid idea? 
